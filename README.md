@@ -6,7 +6,7 @@ HEE data set
 This is the HEE (Highway Eagle Eye) data set.
 It consists of ~12000 individual vehicle trajectories (~4h), recorded by drones over a highway section (length ~600m) with an entry lane. 
 
-*Important note:* Keep in mind that this data set can be useful for studies like ours, but some aspects of it may be noisy, so it is only meant for such experimental purposes.
+**Important note:** Keep in mind that this data set can be useful for experimental studies like ours cited below, but some aspects of it may be noisy, so it is **only meant for experimental** purposes.
 In particular, the measurements in the data set are partially noisy/distortet.
 Furthermore, unfortunately the "map.kml" in parts, is somewhat inaccurate.
 
@@ -16,7 +16,7 @@ Furthermore, unfortunately the "map.kml" in parts, is somewhat inaccurate.
 This data set is published as part of a research paper.
 Threfore, if you are using this data set, please give the following reference:
 
-> Geiger, Philipp, and Christoph-Nikolas Straehle. "Learning Game-Theoretic Models of Multiagent Trajectories Using Implicit Layers." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
+> [Geiger, Philipp, and Christoph-Nikolas Straehle. "Learning Game-Theoretic Models of Multiagent Trajectories Using Implicit Layers." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.](https://arxiv.org/pdf/2008.07303.pdf).
 
 Bibtex Code:
 <pre><code>
