@@ -14,7 +14,7 @@ Furthermore, unfortunately the "map.kml" in parts, is somewhat inaccurate.
 ## Citation
 
 This data set is published as part of a research paper.
-Threfore, if you are using this data set, please give the following reference:
+Therefore, if you are using this data set, please give the following reference:
 
 > [Geiger, Philipp, and Christoph-Nikolas Straehle. "Learning Game-Theoretic Models of Multiagent Trajectories Using Implicit Layers." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.](https://arxiv.org/pdf/2008.07303.pdf).
 
