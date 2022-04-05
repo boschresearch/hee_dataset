@@ -43,7 +43,7 @@ The paper can be found [here](https://arxiv.org/pdf/2008.07303.pdf).
 Here are some preliminary scripts for loading/preprocessing and working with the data.
 
 - General loading and preprocessing functions in Python](https://github.com/boschresearch/trajectory_games_learning/tree/master/data/hee_loading_and_preprocessing)
-- [Example to ilter some merge tracks](https://github.com/boschresearch/trajectory_games_learning/blob/master/data/hee_preprocess2.py)
+- [Example to filter some merge tracks](https://github.com/boschresearch/trajectory_games_learning/blob/master/data/hee_preprocess2.py)
 
 Generally, code for the abovementioned paper is [available](https://github.com/boschresearch/trajectory_games_learning).
 
